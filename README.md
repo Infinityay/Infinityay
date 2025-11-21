@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Infinityay
 - 👀 I’m interested in compute science
 - 🌱 I’m currently learning software engineering
-- 📫 How to reach me luyuhangcqu@163.com
+- 📫 How to reach me infinityay@foxmail.com
 
 <!---
 Infinityay/Infinityay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
